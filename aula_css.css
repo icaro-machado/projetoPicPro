@@ -1,0 +1,22 @@
+/* Seletor por tag */
+header {
+    background-color: burlywood;
+}
+
+/* Seletor por elemento */
+.secaoDetalhesConta {
+    background-color: aquamarine;
+}
+
+/* Seletor por ID */
+#exemploSelectorId {
+    color: brown;
+    background-color: azure;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.secaoDetalhesConta {
+    width: 300px;
+    height: 300px;
+}
